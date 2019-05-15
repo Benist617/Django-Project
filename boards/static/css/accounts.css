@@ -1,0 +1,27 @@
+body {
+  background-image: url(../img/img1.png);
+}
+
+.logo{
+    font-family: 'Yeon Sung', cursive;
+}
+
+.logo a{
+    color: rgba(0,0,3,.9);
+}
+
+.logo a:hover,
+.logo a:active{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
